@@ -258,15 +258,15 @@
     const PAYSTACK_PUBLIC_KEY = 'pk_live_96a553401ff040dedd4cd39a82aa594eb5cf68bc'; 
 
     const todayVips = [
-        { league: "LEBANON PREMIER LEAGUE-ROUND 17", time: "18:30", home: "Nejmeh SC", away: "AL Ahed", badge: "Direct Source ✅", dataValue: "1 - 3", price: 100, isPremium: false },
-        { league: "IRELAND: PREMIER-DIVISION 20", time: "18:45", home: "Waterford", away: "Sligo Rovers", badge: "Insider Fixed ✅", dataValue: "0 - 2", price: 100, isPremium: false },
+        { league: "RESERVE LEAGUE", time: "18:00", home: "Boca Juniors 2", away: "Lanus 2", badge: "Direct Source ✅", dataValue: "2 - 1", price: 100, isPremium: false },
+        { league: "RESERVE LEAGUE", time: "18:00", home: "Ferro 2", away: "Newells Old Boys 2", badge: "Insider Fixed ✅", dataValue: "0 - 1", price: 100, isPremium: false },
         // Updated dataValue placeholder with booking code DTHFS0
-        { league: "FIFA WORLD CUP", time: "20:00", home: "World Cup Bonanza 🏆🔥", away: "BIG ODDS ⭐", badge: "SPECIAL", dataValue: "BOOKING CODE - D1YP13", price: 200, isPremium: true }
+        { league: "FIFA WORLD CUP", time: "22:00", home: "World Cup Bonanza 🏆🔥", away: "BIG ODDS ⭐", badge: "SPECIAL", dataValue: "BOOKING CODE - D1YP13", price: 200, isPremium: true }
     ];
 
     const pastWinnings = [
-        { league: "USA: USL LEAGUE ONE", home: "Boise", away: "Richmond Kickers", picked: "2 - 1", outcome: "2 - 1", status: "WON✅" },
-        { league: "KAZAKHSTAN: FIRST LEAGUE-ROUND 9", home: "Aktobe 2", away: "Akademiya Ontustik", picked: "1 - 4", outcome: "1 - 4", status: "WON✅" }
+        { league: "LEBANON PREMIER LEAGUE-ROUND 17", home: "Nejmeh SC", away: "AL Ahed", picked: "1 - 0", outcome: "1 - 0", status: "WON✅" },
+        { league: "IRELAND: PREMIER-DIVISION 20", home: "Waterford", away: "Sligo Rovers", picked: "4 - 0", outcome: "4 - 0", status: "WON✅" }
     ];
 
     function showPage(page) {
