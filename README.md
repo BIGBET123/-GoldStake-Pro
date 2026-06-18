@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GoldStake Pro</title>
+    <title></title>
     <script src="https://js.paystack.co/v1/inline.js"></script>
     <style>
         :root {
@@ -261,7 +261,7 @@
         { league: "LEBANON PREMIER LEAGUE-ROUND 17", time: "18:30", home: "Nejmeh SC", away: "AL Ahed", badge: "Direct Source ✅", dataValue: "1 - 3", price: 100, isPremium: false },
         { league: "IRELAND: PREMIER-DIVISION 20", time: "18:45", home: "Waterford", away: "Sligo Rovers", badge: "Insider Fixed ✅", dataValue: "0 - 2", price: 100, isPremium: false },
         // Updated dataValue placeholder with booking code DTHFS0
-        { league: "FIFA WORLD CUP", time: "20:00", home: "World Cup Bonanza 🏆🔥", away: "BIG ODDS ⭐", badge: "SPECIAL", dataValue: "BOOKING CODE - DTHFS0", price: 200, isPremium: true }
+        { league: "FIFA WORLD CUP", time: "20:00", home: "World Cup Bonanza 🏆🔥", away: "BIG ODDS ⭐", badge: "SPECIAL", dataValue: "BOOKING CODE - D1YP13", price: 200, isPremium: true }
     ];
 
     const pastWinnings = [
